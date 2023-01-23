@@ -1,2 +1,5 @@
 # study-timer
-A timer I use for studying for my classes.
+
+Useful Study Timer for School.
+
+Created for fun.
